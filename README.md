@@ -9,3 +9,8 @@
 
 [4 线性分类](https://www.bilibili.com/video/av33101528)(2019/5/11)
 
+[5 降维](https://www.bilibili.com/video/av32709936?t=991&p=6)(2019/5/12)
+
+[6 支持向量机](https://www.bilibili.com/video/av28186618?t=259&p=6)(2019/5/12)
+
+[7 核方法](https://www.bilibili.com/video/av34731384/?spm_id_from=333.788.videocard.4)(2019/5/12)
