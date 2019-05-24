@@ -19,3 +19,6 @@
 
 [8 指数分布族](https://www.bilibili.com/video/av33360526)(2019/5/14)
 
+[10 概率图模型](https://www.bilibili.com/video/av33545406)(2019/5/23)
+
+[11 高斯分布](https://www.bilibili.com/video/av35183585)(2019/5/24)
