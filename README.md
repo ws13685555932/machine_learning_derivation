@@ -5,20 +5,26 @@
 
 已看完且更新：
 
-[2 数学基础](https://www.bilibili.com/video/av32905863)(2019/5/10)
+[2 数学基础](https://www.bilibili.com/video/av32905863)
 
-[3 线性回归](https://www.bilibili.com/video/av31989606)(2019/5/11)
+[3 线性回归](https://www.bilibili.com/video/av31989606)
 
-[4 线性分类](https://www.bilibili.com/video/av33101528)(2019/5/11)
+[4 线性分类](https://www.bilibili.com/video/av33101528)
 
-[5 降维](https://www.bilibili.com/video/av32709936)(2019/5/12)
+[5 降维](https://www.bilibili.com/video/av32709936)
 
-[6 支持向量机](https://www.bilibili.com/video/av28186618)(2019/5/12)
+[6 支持向量机](https://www.bilibili.com/video/av28186618)
 
-[7 核方法](https://www.bilibili.com/video/av34731384)(2019/5/12)
+[7 核方法](https://www.bilibili.com/video/av34731384)
 
-[8 指数分布族](https://www.bilibili.com/video/av33360526)(2019/5/14)
+[8 指数分布族](https://www.bilibili.com/video/av33360526)
 
-[10 概率图模型](https://www.bilibili.com/video/av33545406)(2019/5/23)
+[10 概率图模型](https://www.bilibili.com/video/av33545406)
 
-[11 高斯分布](https://www.bilibili.com/video/av35183585)(2019/5/24)
+[11 高斯分布](https://www.bilibili.com/video/av35183585)
+
+[12 变分推断](https://www.bilibili.com/video/av32047507)
+
+[13 马尔科夫蒙特卡罗采样](https://www.bilibili.com/video/av32430563)
+
+[19 贝叶斯线性回归](https://www.bilibili.com/video/av35685274)
