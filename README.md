@@ -21,7 +21,7 @@
 
 [10 概率图模型](https://www.bilibili.com/video/av33545406)
 
-[11 高斯分布](https://www.bilibili.com/video/av35183585)
+[11 高斯混合模型](https://www.bilibili.com/video/av35183585)
 
 [12 变分推断](https://www.bilibili.com/video/av32047507)
 
