@@ -29,7 +29,6 @@
 
 [13 马尔科夫蒙特卡罗采样](https://www.bilibili.com/video/av32430563)
 
-<<<<<<< HEAD
 [14 隐马尔科夫模型](https://www.bilibili.com/video/av32471608)
 
 [15 卡曼滤波](https://www.bilibili.com/video/av32563186)
@@ -37,7 +36,3 @@
 [19 贝叶斯线性回归](https://www.bilibili.com/video/av35685274)
 
 [22 谱聚类](https://www.bilibili.com/video/av37166049)
-
-=======
-[19 贝叶斯线性回归](https://www.bilibili.com/video/av35685274)
->>>>>>> 8a0dc5cfd831cfec78ca5e4aea4c3f26f0fa98a1
