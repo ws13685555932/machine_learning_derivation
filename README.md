@@ -23,12 +23,13 @@
 
 [10 概率图模型](https://www.bilibili.com/video/av33545406)
 
-[11 高斯分布](https://www.bilibili.com/video/av35183585)
+[11 高斯混合模型](https://www.bilibili.com/video/av35183585)
 
 [12 变分推断](https://www.bilibili.com/video/av32047507)
 
 [13 马尔科夫蒙特卡罗采样](https://www.bilibili.com/video/av32430563)
 
+<<<<<<< HEAD
 [14 隐马尔科夫模型](https://www.bilibili.com/video/av32471608)
 
 [15 卡曼滤波](https://www.bilibili.com/video/av32563186)
@@ -37,3 +38,6 @@
 
 [22 谱聚类](https://www.bilibili.com/video/av37166049)
 
+=======
+[19 贝叶斯线性回归](https://www.bilibili.com/video/av35685274)
+>>>>>>> 8a0dc5cfd831cfec78ca5e4aea4c3f26f0fa98a1
