@@ -21,7 +21,9 @@
 
 [8 指数分布族](https://www.bilibili.com/video/av33360526)
 
-[10 概率图模型](https://www.bilibili.com/video/av33545406)
+[9 概率图模型](https://www.bilibili.com/video/av31906558)
+
+[10 EM算法](https://www.bilibili.com/video/av33545406)
 
 [11 高斯混合模型](https://www.bilibili.com/video/av35183585)
 
@@ -38,3 +40,4 @@
 [19 贝叶斯线性回归](https://www.bilibili.com/video/av35685274)
 
 [22 谱聚类](https://www.bilibili.com/video/av37166049)
+
